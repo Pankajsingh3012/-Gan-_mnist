@@ -1,1 +1,1 @@
-# -Gan-_mnist
+# -Generative Adversarial Networks _mnist
